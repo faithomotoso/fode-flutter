@@ -13,9 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        // This makes the visual density adapt to the platform that you run
-        // the app on. For desktop platforms, the controls will be smaller and
-        // closer together (more dense) than on mobile platforms.
+        fontFamily: "Google Sans",
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: Home(),

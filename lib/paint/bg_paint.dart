@@ -15,8 +15,8 @@ class BgPaint extends CustomPainter {
     path.moveTo(size.width, 0);
     path.lineTo(size.width * 0.84, 0);
     path.lineTo(size.width * 0.46, size.height * 0.7);
-    path.quadraticBezierTo(size.width * 0.42, size.height * 0.8,
-        size.width * 0.46, size.height * 0.9);
+    path.quadraticBezierTo(size.width * 0.41, size.height * 0.8,
+        size.width * 0.45, size.height * 0.9);
     path.lineTo(size.width * 0.5, size.height);
     path.lineTo(size.width, size.height);
 
