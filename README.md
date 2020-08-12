@@ -1,6 +1,12 @@
 # fode_flutter
 
-A new Flutter project.
+Run using flutter master with web activated. Not optimized for mobile devices
+
+Original UI by @mehmetozsoyart on Instagram
+
+![Original UI](screenshot/fode_ui_web.jpg)
+
+![Replicated UI](screenshot/fode_screenshot.jpg)
 
 ## Getting Started
 
